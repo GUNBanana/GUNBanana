@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🍌 $GUNBaNa — The Banana Gun on Solana
 
-<!--
-**GUNBanana/GUNBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GUNBaNa Logo](assets/logo.png)
 
-Here are some ideas to get you started:
+$GUNBaNa is a community-driven memecoin launched on the Solana blockchain.  
+Our mission: bring fun, memes, and bananas to the crypto jungle — with the firepower of a gun! 🔫🍌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Token Information
+- **Name:** GUNBaNa
+- **Symbol:** GUNBaNa
+- **Blockchain:** Solana
+- **Token Address:** `7of6kZJZCvLU6F8vsZSpeHVDFf7ubzf4EAKr6yDKpump`
+
+---
+
+## 🌍 Official Links
+- **Telegram:** [Join the community](https://t.me/BananaGUN8)
+- **Twitter/X:** [Follow us](https://x.com/gun_token95707)
+- **Pump.fun Page:** [View on Pump.fun](https://pump.fun/coin/7of6kZJZCvLU6F8vsZSpeHVDFf7ubzf4EAKr6yDKpump)
+- **Trade on Orca:** [Orca Pool](https://www.orca.so/pools/FfXTriCexz66qpyrAH9TLvt3dxVHhLyfGjYgUqYWs2MX)
+
+---
+
+## 🗺️ Roadmap
+- ✅ Token launch on Pump.fun
+- ✅ Community Telegram group
+- 🚀 Get listed on Birdeye, DEXScreener, and Solscan
+- 📈 Grow liquidity and holders
+- 🎉 Meme contests and airdrops
+
+---
+
+## 📜 License
+This repository is released under the [MIT License](LICENSE).
