@@ -1,1 +1,14 @@
 
+{
+  "name": "GUNBaNa",
+  "symbol": "GUNBaNa",
+  "description": "GUNBaNa is a Solana memecoin blending bananas and firepower! Community-driven, fun-focused, and fueled by memes. 🍌🔫",
+  "image": "https://raw.githubusercontent.com/CryptoKing/GUNBanana/main/assets/logo.png",
+  "extensions": {
+    "website": "https://pump.fun/coin/7of6kZJZCvLU6F8vsZSpeHVDFf7ubzf4EAKr6yDKpump",
+    "twitter": "https://x.com/gun_token95707",
+    "telegram": "https://t.me/BananaGUN8",
+    "orca": "https://www.orca.so/pools/FfXTriCexz66qpyrAH9TLvt3dxVHhLyfGjYgUqYWs2MX"
+  },
+  "tags": ["memecoin", "solana", "banana", "fun"]
+}
